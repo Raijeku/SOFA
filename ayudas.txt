@@ -1,0 +1,3 @@
+caracteristicas del canal (ecualizador)
+conocer el medio de transmisión (tipo de señal)
+características del transmisor (frecuencia)
